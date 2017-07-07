@@ -13,10 +13,7 @@ function hook(req, res, next) {
   };
   next();
 }
-module.exports = function main({ customStatusCodes }) {
-  // If custom status code are being supplied, use these custom status codes
-  if (customStatusCodes) STATUS = customStatusCodes;
-
+module.exports = function main() {
   // Hook the method as Express Middleware
   return hook;
 };
