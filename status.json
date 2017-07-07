@@ -1,0 +1,188 @@
+{
+  "100": {
+    "msg": "Continue"
+  },
+  "101": {
+    "msg": "Switching Protocols"
+  },
+  "102": {
+    "msg": "Processing"
+  },
+  "200": {
+    "msg": "OK"
+  },
+  "201": {
+    "msg": "Created"
+  },
+  "202": {
+    "msg": "Accepted"
+  },
+  "203": {
+    "msg": "Non-Authoritative Information"
+  },
+  "204": {
+    "msg": "No Content"
+  },
+  "205": {
+    "msg": "Reset Content"
+  },
+  "206": {
+    "msg": "Partial Content"
+  },
+  "207": {
+    "msg": "Multi-Status"
+  },
+  "208": {
+    "msg": "Already Reported"
+  },
+  "226": {
+    "msg": "IM Used"
+  },
+  "300": {
+    "msg": "Multiple Choices"
+  },
+  "301": {
+    "msg": "Moved Permanently"
+  },
+  "302": {
+    "msg": "Found"
+  },
+  "303": {
+    "msg": "See Other"
+  },
+  "304": {
+    "msg": "Not Modified"
+  },
+  "305": {
+    "msg": "Use Proxy"
+  },
+  "306": {
+    "msg": "Reserved"
+  },
+  "307": {
+    "msg": "Temporary Redirect"
+  },
+  "308": {
+    "msg": "Permanent Redirect"
+  },
+  "400": {
+    "msg": "Bad Request"
+  },
+  "401": {
+    "msg": "Unauthorized"
+  },
+  "402": {
+    "msg": "Payment Required"
+  },
+  "403": {
+    "msg": "Forbidden"
+  },
+  "404": {
+    "msg": "Not Found"
+  },
+  "405": {
+    "msg": "Method Not Allowed"
+  },
+  "406": {
+    "msg": "Not Acceptable"
+  },
+  "407": {
+    "msg": "Proxy Authentication Required"
+  },
+  "408": {
+    "msg": "Request Timeout"
+  },
+  "409": {
+    "msg": "Conflict"
+  },
+  "410": {
+    "msg": "Gone"
+  },
+  "411": {
+    "msg": "Length Required"
+  },
+  "412": {
+    "msg": "Precondition Failed"
+  },
+  "413": {
+    "msg": "Request Entity Too Large"
+  },
+  "414": {
+    "msg": "Request-URI Too Long"
+  },
+  "415": {
+    "msg": "Unsupported Media Type"
+  },
+  "416": {
+    "msg": "Requested Range Not Satisfiable"
+  },
+  "417": {
+    "msg": "Expectation Failed"
+  },
+  "422": {
+    "msg": "Unprocessable Entity"
+  },
+  "423": {
+    "msg": "Locked"
+  },
+  "424": {
+    "msg": "Failed Dependency"
+  },
+  "425": {
+    "msg": "Unordered Collection"
+  },
+  "426": {
+    "msg": "Upgrade Required"
+  },
+  "427": {
+    "msg": "Unassigned"
+  },
+  "428": {
+    "msg": "Precondition Required"
+  },
+  "429": {
+    "msg": "Too Many Requests"
+  },
+  "430": {
+    "msg": "Unassigned"
+  },
+  "431": {
+    "msg": "Request Header Fields Too Large"
+  },
+  "500": {
+    "msg": "Internal Server Error"
+  },
+  "501": {
+    "msg": "Not Implemented"
+  },
+  "502": {
+    "msg": "Bad Gateway"
+  },
+  "503": {
+    "msg": "Service Unavailable"
+  },
+  "504": {
+    "msg": "Gateway Timeout"
+  },
+  "505": {
+    "msg": "HTTP Version Not Supported"
+  },
+  "506": {
+    "msg": "Variant Also Negotiates"
+  },
+  "507": {
+    "msg": "Insufficient Storage"
+  },
+  "508": {
+    "msg": "Loop Detected"
+  },
+  "509": {
+    "msg": "Bandwidth Limit Exceeded"
+  },
+  "510": {
+    "msg": "Not Extended"
+  },
+  "511": {
+    "msg": "Network Authentication Required"
+  }
+}
